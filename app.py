@@ -212,6 +212,7 @@ elif page == "Contact":
             <p><strong>Email:</strong> <a href="prachitirole10@gmail.com">prachitirole10@gmail.com</a></p>
             <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/prachi-tirole-84aa60256" target="_blank">LinkedIn</a></p>
             <p><strong>GitHub:</strong> <a href="https://github.com/tirole10" target="_blank"> GitHub</a></p>
+            <p><strong>GFG:</strong> <a href="https://www.geeksforgeeks.org/user/prachiti2os6/" target="_blank"> GeeksforGeeks</a></p>
         </div>
         """,
         unsafe_allow_html=True,
